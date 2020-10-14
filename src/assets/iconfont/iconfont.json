@@ -1,0 +1,23 @@
+{
+  "id": "2126171",
+  "name": "webpack",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17537710",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "ecf6",
+      "unicode_decimal": 60662
+    },
+    {
+      "icon_id": "17537711",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "ecf7",
+      "unicode_decimal": 60663
+    }
+  ]
+}
